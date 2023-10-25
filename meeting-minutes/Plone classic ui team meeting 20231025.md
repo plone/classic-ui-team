@@ -66,6 +66,8 @@ trying to get in touch with the `z3c.jbot` or `zope.deferredimport` contributors
 
 After that we can start moving templates to `plone.classicui` package and decouple more Classic-UI stuff from core.
 
+https://github.com/plone/plone.classicui/issues/7
+
 - petschki
 
 
